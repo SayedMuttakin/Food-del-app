@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&family=Montserrat:wght@400;700&family=Roboto:wght@400;700&display=swap');
+@import "tailwindcss";
+body {
+  font-family: 'Poppins', sans-serif;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+}
+
+h1, h2, h3 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700; /* Bold */
+}
+
+p {
+  font-family: 'Roboto', sans-serif; /* Roboto ফন্ট ব্যবহার করুন */
+  font-weight: 400; /* Regular */
+  font-size: 16px;
+}
+
+button {
+  font-family: 'Roboto', sans-serif; /* বাটনের জন্য Roboto ফন্ট */
+  font-weight: 500; /* Medium */
+}

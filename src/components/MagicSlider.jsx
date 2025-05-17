@@ -79,7 +79,10 @@ const MagicSlider = () => {
             Enjoy the best flavors and fresh ingredients, made with love!
           </p>
           <Link to="/menu">
-            <button className="mt-6 px-10 py-4 text-white font-semibold cursor-pointer bg-gradient-to-r from-[rgb(111,242,175)] to-[#32a852] transition-all duration-300 hover:from-[#ff7eb3] hover:to-[#ff758c]">
+            <button
+              className="mt-6 px-10 py-4 text-white font-semibold cursor-pointer 
+            rounded-md  bg-gradient-to-r from-[rgb(111,242,175)] to-[#32a852] transition-all duration-300 hover:from-[#ff7eb3] hover:to-[#ff758c]"
+            >
               ORDER NOW
             </button>
           </Link>

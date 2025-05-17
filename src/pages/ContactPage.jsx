@@ -9,7 +9,7 @@ const ContactPage = () => {
 
   return (
     <>
-      <div className="bg-gray-50 min-h-screen py-12 px-4 sm:px-6 lg:px-8">
+      <div className="bg-gray-50 min-h-screen py-12 px-4 sm:px-6 lg:px-8 mt-28">
         <div className="max-w-7xl mx-auto">
           {/* Hero Section */}
           <div className="text-center mb-12">
